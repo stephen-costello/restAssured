@@ -14,12 +14,12 @@ import static org.apache.http.HttpStatus.SC_OK;
 import static org.hamcrest.Matchers.equalTo;
 
 /**
- * Project Name    : rest-assured-demo
- * Developer       : Osanda Deshan
- * Version         : 1.0.0
- * Date            : 2/9/2020
- * Time            : 1:04 PM
- * Description     :
+ * Project Name    : rest-assured-java
+ * Developer       : OStephen Costello
+ * Version         : -
+ * Date            : 7/11/2022
+ * Time            : -
+ * Description     : Sample rest api project and rest assured validation
  **/
 
 @Listeners(TestAnalyzeReportListener.class)
