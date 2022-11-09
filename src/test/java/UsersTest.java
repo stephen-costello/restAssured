@@ -15,7 +15,7 @@ import static org.hamcrest.Matchers.equalTo;
 
 /**
  * Project Name    : rest-assured-java
- * Developer       : OStephen Costello
+ * Developer       : Stephen Costello
  * Version         : -
  * Date            : 7/11/2022
  * Time            : -
