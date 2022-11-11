@@ -25,8 +25,8 @@ import static org.hamcrest.Matchers.equalTo;
 @Listeners(TestAnalyzeReportListener.class)
 public class UsersTest {
 
-    private final String NAME = "Osanda Nimalarathna";
-    private final String EMAIL = "osanda2@gmail.com";
+    private final String NAME = "Stephen Costello";
+    private final String EMAIL = "costello.stephen@gmail.com";
     private final String GENDER = "male";
     private final String STATUS = "active";
     private String USER_ID;
